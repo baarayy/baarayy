@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **software projects**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1aJ4TkIkZQC1yRvmvBT3KuRN63iCdXTce/view" style="color:#0969da">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

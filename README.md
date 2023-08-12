@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baraa</h1>
 <h3 align="center">Competitive programmer | Computer engineering student | Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baarayy&label=Profile%20views&color=0e75b6&style=flat" alt="baarayy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baarayy" alt="baarayy" /></a> </p>
 
 - 🌱 I’m currently learning **web development especially the backend**
 
